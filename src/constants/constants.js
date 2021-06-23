@@ -43,7 +43,7 @@ export const projects = [
     title: "BootStrap Demo",
     description:
       "This is a  website which was built on BootStrap, Html, CSS and JavaScript. It is a simple portfolio website or a normal bootstrap 5 based website which showcases the functions of new BootStrap5.",
-    image: "/images/5.png",
+    image: "/images/5.jpg",
     tags: ["Html", "CSS", "JavaScript", "BootStrap"],
     source: "https://sahilmandre.github.io/bootstrapdemo/",
     visit: "https://github.com/sahilmandre/bootstrapdemo",
